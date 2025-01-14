@@ -25,7 +25,7 @@ Spam messages are not only annoying but can also pose security risks. This proje
 - **Programming Language**: Python (3.8+)
 - **Libraries**:
   - Data Handling: `pandas`, `numpy`
-  - NLP: `nltk`, `re`
+  - NLP: `nltk`
   - Machine Learning: `scikit-learn`
   - Visualization: `matplotlib`, `seaborn`
 
