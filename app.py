@@ -10,6 +10,8 @@ import string
 from PIL import Image
 
 nltk.download('punkt')
+nltk.download('punkt_tab')
+
 nltk.download('stopwords')
 
 # Initialize PorterStemmer
