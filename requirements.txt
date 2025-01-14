@@ -4,3 +4,6 @@ numpy
 scipy
 pandas
 nltk
+
+import nltk
+nltk.download('punkt')
